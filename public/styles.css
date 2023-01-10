@@ -1,0 +1,16 @@
+.heading {
+  color: red;
+}
+
+ul {
+  color: blue;
+}
+
+.food-img {
+  height: 100px;
+  width: 100px;
+}
+.randImgBlock {
+  height: 200;
+  width: 300px;
+}
